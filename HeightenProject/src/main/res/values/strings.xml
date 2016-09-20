@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HeightenModule</string>
+    <string name="heighten_choose_zone_text">该区域为选中区域</string>
+    <string name="heighten_ori_pic">原图</string>
+    <string name="heighten_heighten">增高</string>
+    <string name="heighten_reset">重置</string>
+    <string name="heighten_compare">对比</string>
+</resources>
